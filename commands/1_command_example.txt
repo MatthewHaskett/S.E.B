@@ -1,0 +1,21 @@
+const Discord = require("discord.js");
+
+const config = require("../config.json");
+const prefix = config.prefix;
+
+const green = config.green;
+const orange = config.orange;
+const red = config.red;
+
+module.exports.run = async (bot, message, args) => {
+
+    // This is where the code goes!
+
+};
+
+module.exports.help = {
+    name: "commandname", // Replace "commandname" with the name of the command
+    type: "commandtype", // Replace "commandtype" with a type, this will be used to determine what category it should go in for the help command
+    description: "command description", // Enter the description for the command
+    usage: `${prefix}commandname [optional] <required>` // Enter the usage for the command (this is only for the help command)
+};

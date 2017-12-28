@@ -1,0 +1,14 @@
+{
+  "name": "S.E.B",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "author": "SebastiaanYN",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
+    "discord.js": "^11.2.1",
+    "request": "^2.83.0"
+  }
+}

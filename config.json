@@ -1,0 +1,20 @@
+{
+    "token": "BOT_TOKEN",
+    "prefix": "!",
+    "ownerID": "204156692760494080",
+    "permanentInviteLink": "https://discord.gg/HkQMMtQ",
+    
+    "permissions": ["ADD_REACTIONS", "SEND_MESSAGES", "EMBED_LINKS", "USE_EXTERNAL_EMOJIS", "MANAGE_MESSAGES", "KICK_MEMBERS"],
+    "playingStatus": "PLAYING STATUS",
+    
+    
+    "mentionResponse": ["Yes my darling?", "Beep boop beep, at your service", "What do you want?", "huh.", "Yeah?", "You said my name?", "You tagged the wrong person. Luckily for you I ain't a person.", "wat", "What do you want? I reading harry potter", "whomst'd've'ly'yaint'nt'ed'ies's'y'es tagged me", "Bots have feelings too you know", "2 pizza margerita and a coke please", "54 pizzas and a diet coke. im on a diet", "What's up? Don't you dare say the sky", "Why did the bot cross the road?"],
+    
+    
+    "eightball": ["It is certain", "It is decidedly so", "Without a doubt", "Yes – definitely", "You may rely on it", "As I see it, yes", "Most likely", "Outlook good", "Yes", "Signs point to yes", "Reply hazy, try again", "Ask again later", "Better not tell you now", "Cannot predict now", "Concentrate and ask again", "Don't count on it", "My reply is no", "My sources say no", "Outlook not so good", "Very doubtful"],
+    
+    
+    "green": "#32CD32",
+    "orange": "#FF8300",
+    "red": "#FF5555"
+}
