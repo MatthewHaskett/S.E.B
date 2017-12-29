@@ -16,7 +16,7 @@ Yes, you can join my discord server with this link: https://discord.gg/HkQMMtQ
 
 ## Setting Up
 - Open the folder you wish to have the bot in, right click and select Git Bash here.
-- Type the command `git pull https://github.com/SebastiaanYN/S.E.B.git`
+- Type the command `git clone https://github.com/SebastiaanYN/S.E.B.git`
 - Wait for it to pull and then open command prompt as an administrator.
 - Navigate to this directory and run the following commands:
     - `npm install discord.js`
