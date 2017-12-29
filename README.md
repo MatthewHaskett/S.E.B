@@ -16,4 +16,16 @@ Yes, you can join my discord server with this link: https://discord.gg/HkQMMtQ
 
 ## Setting Up
 - Open the folder you wish to have the bot in, right click and select Git Bash here.
-- Type the command `git pull 
+- Type the command `git pull https://github.com/SebastiaanYN/S.E.B.git`
+- Wait for it to pull and then open command prompt as an administrator.
+- Navigate to this directory and run the following commands:
+    - `npm install discord.js`
+    - `npm install axios`
+    - `npm install cheerio`
+    - `npm install request`
+- Edit config.json:
+    - Replace token with the token of a bot created at https://discordapp.com/developers/applications/me
+    - Replace bot owner with your ID
+        - Attempt to mention yourself but put a `\` before it.
+        - The number is your ID. 
+- Run `npm start` and you're good to go!
